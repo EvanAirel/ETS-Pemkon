@@ -22,9 +22,9 @@ Sistem ini didesain sebagai solusi atas kelemahan pengaman *reactive threshold-b
 ## 📂 Struktur Repositori
 Repositori ini disusun secara rapi untuk memudahkan proses evaluasi dan simulasi ulang:
 
-* 📁 **`STM32_Code/`** Berisi *source code* lengkap (C/C++), konfigurasi STM32CubeMX (`.ioc`), dan *project file* Keil µVision 5. Logika utama berada di dalam `Core/Src/main.c`.
+* 📁 **`STM32_Code.rar/`** Berisi *source code* lengkap (C/C++), konfigurasi STM32CubeMX (`.ioc`), dan *project file* Keil µVision 5. Logika utama berada di dalam `Core/Src/main.c`.
 * 📁 **`Proteus_Simulation/`** Berisi *file* skematik simulasi perangkat keras Proteus 8 Professional (`.pdsprj`) beserta *file* `.hex` siap pakai untuk mensimulasikan ADC dan respons aktuator (LED).
-* 📁 **`Data_and_Plot/`** Berisi *dataset* hasil ekstraksi Virtual Terminal (UART), skrip plotting otomatis, dan hasil visualisasi komparatif menggunakan **GNUPlot 6.0**.
+* 📁 **`gnuplot/`** Berisi *dataset* hasil ekstraksi Virtual Terminal (UART), skrip plotting otomatis, dan hasil visualisasi komparatif menggunakan **GNUPlot 6.0**.
 
 ## ⚙️ Cara Menjalankan Simulasi
 1. Buka *file* simulasi `.pdsprj` di dalam folder `Proteus_Simulation` menggunakan Proteus 8.xx.
