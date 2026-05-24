@@ -1,8 +1,9 @@
 # 🛡️ Predictive Digital Twin (PDT) & Dynamic Barrier-based Safety (DBaS) on STM32
 
-**Evaluasi Tengah Semester (ETS) - Pemrograman Kontroler** 👤 **Oleh:** 
+**Evaluasi Tengah Semester (ETS) - Pemrograman Kontroler**  
 Muhammad Evan Airel Budiasono (NRP: 2042241105)  
 Esqy Gibraltar Azis (NRP: 2042241099)
+
 🏫 **Institusi:** Departemen Teknik Instrumentasi, Institut Teknologi Sepuluh Nopember (ITS)
 
 ---
